@@ -1,0 +1,5 @@
+= Pathfinder Role-Playing Game
+
+link:../index.html[Home]
+
+* link:crafting.html[Item Crafting]

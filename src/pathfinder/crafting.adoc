@@ -1,0 +1,41 @@
+= Item Crafting
+
+link:../index.html[Home] » link:index.html[Pathfinder Role-Playing Game]
+
+Item crafting works as written except as follows.
+
+== Earning a Living / Capitol
+
+You can spend 1 day of downtime earn a living or capital.
+
+* Untrained work: 5 sp * d20 roll result
+* Trained skill check (you may take 10): 1 gp * check result
+* Magic trained skill check (ex. spellcaster with spellcraft, you may also take 10): 5 gp * check result
+
+== Crafting Times
+
+The DC determines how much time it takes to complete an item. Items take ½ the DC in days to complete, aka a DC 10 item takes 5 days of dedicated work (round up). Make a check when you start the item, for every 2 points your check result exceeds the DC, reduce the time required by 1 day (min 1 day). If you fail the check by 4 or less, you waste 1 day and fail to start the item, try again another day. If you fail the check on a mundane item by 5 or more, you waste 1 day and waste 10% of the cost of the item in materials. Repairing mundane items works similarly, but takes only half the time, and the standard reduced cost (1/5 price).
+
+== Masterwork and Special Materials
+
+Crafting a masterwork item and/or an item with special materials specifying masterwork quality, adds +4 to the DC, minimum DC 20. Inferior special materials, specifying the fragile quality (gold, bronze, bone), do not increase the DC, unless they are also masterwork. Any other special material, adds +2 to the DC, minimum DC 15, unless they are also masterwork. Do not stack the DC modifiers, instead use the highest modifier and highest minimum DC.
+
+== Magic Items
+
+Crafting magic items, works similarly to mundane items, except failing the check by 5 or more, results in a cursed item. In such a case you are unaware it's cursed, and you must complete the item at full cost in time and money, ASAP, before you can craft again. You are compelled to do so as part of the curse. When making items with multiple abilities, treat it like making multiple separate items to determine the time required. Magic items require a masterwork mundane item as part of their creation, this is included in the cost. If such an item is unavailable for purchase, the creator can craft the masterwork base item per the above rules, if they have the skill.
+
+== Cooperative Crafting
+
+Each person working on an item, must make the appropriate skill check, and makes 1 day of progress to it’s completion. Each person may work on the same or different parts/abilties of multi-part/ability items. Untrained people may also assist a crafter to fulfill a requirement the trained crafter lacks, in this case the trained crafter makes the crafting check(s), the untrained assistant(s) eliminate the DC modifier for lacking the requirement they fulfill but do not make any checks or provide progress to completion as a trained crafter would.
+
+== Crafting While Adventuring
+
+This is essentially unchanged, to clarify: items crafted while adventuring take 4 times as long to complete (you only spend ¼ (2 hours) of each day working on them...) Since crafting takes 4 times as long aka your only doing ¼ of the work per day, reduce the time required by 2 days per 1 point your check result exceeds the DC.
+
+== Crafting in Motion
+
+Crafting generally requires a safe, comfortable working environment. Crafting while in motion, is more difficult and takes more time. The GM may impose additional restrictions, but in general:
+
+* Vigorous motion (on a moving mount, taking a bouncy wagon ride, in a small boat in rough water, belowdecks in a storm-tossed ship), takes twice as long (you make ½ the progress.)
+* Violent motion (on a galloping horse, taking a very rough wagon ride, in a small boat in rapids, on the deck of a storm-tossed ship), takes four times as long (you make ¼ the progress.)
+* Extraordinarily violent motion (earthquake) is impossible to craft in.

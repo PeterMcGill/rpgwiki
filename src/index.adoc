@@ -1,0 +1,3 @@
+= Peter's Role-Playing Game Wiki
+
+* link:pathfinder/index.html[Pathfinder (First Edition)]
