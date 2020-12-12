@@ -1,0 +1,27 @@
+= House Rules
+
+link:../index.html[Home] » link:index.html[Jade Regent 2020]
+
+The following house and variant rules are in place for this campaign, consult your GM for individual approval.
+
+== Character Creation
+
+Each player can bring up to 2 standard Pathfinder characters to the "`table`". Any official Paizo Pathfinder first edition publications are acceptable for character options, subject to GM approval. If any abilities appear unbalanced in play, I’ll apply any relevant Pathfinder Society rule modifications to said abilities. Characters start at first level, with two traits, standard trait rules apply, with 1 alteration: It’s recommended to choose 1 trait from the link:JadeRegentPlayersGuide.pdf[Jade Regent Player’s Guide]. Ability scores are determined by 20 point, point buy. Standard starter wealth. Advancement rate is Pathfinder medium. If you send me a portrait/image for your character, I’ll use it for your character token.
+
+== Hit Points
+
+Max hit points up to (and including) level 6. Level 7 and above are as follows:
+
+d12:: 6 + d6
+d10:: 4 + d6 (reroll 1s)
+d8:: 4 + d4
+d6:: 2 + d4 (reroll 1s)
+
+== House Rules
+
+* https://www.d20pfsrd.com/skills/background-skills/[Background Skills]
+* link:../pathfinder/relationships.html[Building Relationships]
+* Caravans
+* Downtime & Retraining
+* Hero Points
+* link:../pathfinder/crafting.html[Item Crafting]

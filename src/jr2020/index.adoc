@@ -1,0 +1,6 @@
+= Jade Regent 2020
+
+link:../index.html[Home]
+
+* link:JadeRegentPlayersGuide.pdf[Jade Regent Player's Guide]
+* link:house.html[House Rules]
