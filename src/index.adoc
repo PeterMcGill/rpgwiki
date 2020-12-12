@@ -1,3 +1,9 @@
 = Peter's Role-Playing Game Wiki
 
+== Rule Systems
+
 * link:pathfinder/index.html[Pathfinder (First Edition)]
+
+== Campaigns
+
+* link:jr2020/index.html[Jade Regent 2020]

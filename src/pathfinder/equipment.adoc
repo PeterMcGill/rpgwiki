@@ -1,0 +1,9 @@
+= Building Relationships
+
+link:../index.html[Home] » link:index.html[Pathfinder Role-Playing Game]
+
+=== Masterwork Portable Forge
+
+*Price* 200 gp; *Weight* 120 lbs.
+
+A portable forge with a set of masterwork smith’s tools. You get a +2 circumstance bonus on Craft checks made with them.

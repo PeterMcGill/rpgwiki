@@ -1,0 +1,9 @@
+= Building Relationships
+
+link:../index.html[Home] » link:index.html[Pathfinder Role-Playing Game]
+
+=== Oni Hunter
+
+*Prerequisites:* Knowledge (planes) 6 ranks.
+
+*Benefit:* You gain a +2 bonus on Knowledge (planes) checks to know the powers and abilities of oni. You gain a +2 morale bonus on all attack rolls and a +2 morale bonus on caster level checks to penetrate spell resistance made against creatures you recognize as oni.

@@ -1,0 +1,13 @@
+= Building Relationships
+
+link:../index.html[Home] » link:index.html[Pathfinder Role-Playing Game]
+
+These rules alter the relationship rules introduced in the Jade Regent Adventure Path. They replace the XP gains associated with increasing relationship levels. All other aspects of the relationship rules remain as written, including the non-XP bonuses.
+
+Upon achieving Friendship/Competition level, you may select 1 of the associated NPC’s skills (your GM has the lists). From now on, that skill is considered a class skill for you and you gain +1 rank in the skill. Any excess ranks above your character level are ignored, until you reach an appropriate character level to use them. If the NPC is associated with your campaign trait, you instead gain +2 ranks in the skill.
+
+Upon achieving Fellowship/Rivalry level, you gain an additional +1 rank in the skill (or +2 for campaign trait NPCs.)
+
+Upon achieving Devotion/Enmity level, you again gain additional +1 rank in the skill (or +2 for campaign trait NPCs.)
+
+Note: As these skills are now class skills you also get the +3 class skill bonus.
