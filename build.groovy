@@ -16,7 +16,7 @@ import org.asciidoctor.Asciidoctor
 import org.asciidoctor.Attributes
 import org.asciidoctor.OptionsBuilder
 
-@Field File buildDir = new File('html')
+@Field File buildDir = new File('docs')
 
 def build() {
 	Asciidoctor asciidoctor = Asciidoctor.Factory.create()
