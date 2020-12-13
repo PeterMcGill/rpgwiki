@@ -4,3 +4,5 @@ link:../index.html[Home]
 
 * link:JadeRegentPlayersGuide.pdf[Jade Regent Player's Guide]
 * link:house.html[House Rules]
+* link:treasures.html[Treasures]
+* link:story/index.html[Story Journal]

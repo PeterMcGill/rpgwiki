@@ -1,0 +1,35 @@
+= The Legacy’s Lure
+
+link:../../index.html[Home] » link:../index.html[Jade Regent 2020] » link:index.html[Story Journal]
+
+== Rokuro’s Letter
+
+Written on fine paper in black ink, the words of this letter are inscribed in Tien.
+
+"`_My son my heir. You know now that I have kept secrets from you. You were always a perceptive son, and while you may not understand my reasons for secrecy. I hope that you realize it was necessary. Know that I was not angry with you for opening the warding box—I was angry with myself for withholding the truth from you and forcing you to seek out what I should have given to you. The words I spoke to you were from anger with myself, and it shames me to think of them now. I write this note as an apology, and to beg you to leave these secrets to history.
+
+The next few days will be the most important I have faced in many years. If our family's enemies have, as I hope, forgotten us, I shall reunite with you and your wife, and your mother and I shall reveal the truth to you. But if they still seek the contents of the warding box, I fear that I may not speak to you again. The box holds our family's greatest treasure, so I have returned it to Kortun's care, and it shall remain hidden in the secret third vault under Brinewall Castle—obscured from our enemies, I hope and pray. I will not grant our foes the satisfaction of killing me themselves—if it comes to it, let my death, by my own hand, be my final act to protect you, so that our enemies believe our line ended.
+
+I have instructed Tsutamu to keep this letter from you, delivering it to you only should I fail to return as I hope to. If I can, I will reveal all to you myself. If I cannot, this final missive from a father to a son must suffice as an apology in place of an explanation, and you must destroy this letter, flee to the south, and never return to Brinewall. If our enemies find what I have hidden, there will be nothing here for you. If they do not, they will lie in wait forever for your return.
+
+I hope to see you again soon, my son. But my heart tells me I will not. I am sorry to have failed you. But I am proud of you, and I know you will survive this old man's shame. You are strong, and you must remain so. For if you are reading this and I am gone, know that our enemies will never stop searching for us, and that is why I cannot reveal the trush to you until I know there is no chance of them finding us again.
+
+Rokuro Kaijitsu
+Sunday, 29 Desnus, 4687_`"
+
+Brinewall:: An unknown scourge destroyed the colony of Brinewall on the first day of Sarenith in 4687, just a few days after the date on the letter.
+Kortun:: Brinewall’s last commander at the time the colony was destroyed was a man named Andril Kortun.
+Rokuro Kaijitsu:: Rokuro Kaijitsu was Ameiko, Kuro and Shiro’s grandfather, which would make the letter’s unnamed and intended recipient their father, the now-deceased Lonjiku Kaijitsu.
+Tsutamu:: Tsutamu was Rokuro Kaijitsu’s devoted bodyguard.
+
+Once Ameiko reads Rokuro’s letter, she becomes fascinated to the point of obsession over it. She never had what one could call a "`stable`" relationship with her father, but the revelation that members of her family may have once lived in Brinewall—and might even have been there when whatever doom came to that colony struck—is almost as intriguing to her as the wonder of what strange legacy might be hidden in the "`warding box`" mentioned in the note.
+
+The opportunity to track down a family secret and go on an adventure is too much for Ameiko to ignore, but after her previous experiences as an adventurer, she knows better than to go it alone. Impressed with how her friends, managed to recover the treasure from the swamp in the first place, she all but begs them to accompany her north to Brinewall to seek this hidden family legacy.
+
+Ameiko also recruits three more allies to join her—the elf ranger Shalelu Andosana, the Varisian caravan master Sandru Vhiski, and Koya Mvashti, the Varisian cleric of Desna. By recruiting Sandru and his caravan, Ameiko hopes to find safety in numbers—a trip to Brinewall isn’t an idle journey, after all. All three of these NPCs eagerly accept Ameiko’s offer to join her on the adventure.
+
+== The Journey North
+
+Once Sandru’s caravan is prepared and ready to go, Ameiko leaves her manor in southern Sandpoint in the care of her house staff and makes sure that her employees are ready to handle running business at the Rusty Dragon. The journey to Brinewall takes the caravan from Sandpoint up along the Lost Coast Road, passes through the villages of Galduria and Wolf’s Ear, cuts through the northeastern reach of Churlwood, and eventually reaches the northern town of Roderic’s Cove. Sandru prefers to avoid Riddleport entirely, following an old track north of Roderic’s Cove that skirts the southern Stony Mountains, then winds up into the Velashu Uplands, following the river northwest to a low pass in the mountains and then due north into the Nolands and, eventually, to Brinewall.
+
+The farther north this route goes, the more disused the roads become. By the time the caravan winds through the Velashu Uplands, the road is little more than a track. With the loss of Brinewall as a viable port, most trade between Varisia and the Lands of the Linnorm Kings has been via the sea route, but the trail the caravan follows isn’t completely abandoned. Sandru is quick to point out that several Varisian caravans take the route yearly, although he does admit that they generally make a wide detour around Brinewall, which is believed by most to be haunted, cursed, or both. Overall, the journey from Sandpoint to Brinewall covers about 500 miles, it takes them about 16 days to reach their destination.

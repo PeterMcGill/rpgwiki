@@ -1,0 +1,46 @@
+= Treasures
+
+link:../index.html[Home] » link:index.html[Jade Regent 2020]
+
+== Amatatsu Seal (Minor Artifact)
+
+*Aura* strong (all schools); *CL* 20th +
+*Slot* none; *Weight* —
+
+This stone statuette of a dragon is one of five royal seals of Minkai, and represents the Amatatsu family’s divine right to rule the empire of Minkai. Should no Amatatsus of pure blood be able to take up that charge, however, the Amatatsu Seal can invest the right to rule as an Amatatsu in any number of living humanoid hosts. These Amatatsu scions often experience a series of visions of the past, present, and possible future.
+
+The _Amatatsu Seal_ has a daily allotment of 5 charges that it can use to cast the following spells on an Amatatsu scion: _cure serious wounds, remove curse, remove disease,_ or _restoration_. Each casting uses up 1 daily charge. Alternatively, the seal can cast _heal_ on an Amatatsu scion, but doing so expends all 5 charges. Finally, and only at the seal’s discretion, it can cast _resurrection_ on an Amatatsu scion, but doing so renders its spellcasting powers useless for a month.
+
+The _Amatatsu Seal_ itself radiates strong magic, and those with the proper resources can sense this magic across oceans and continents, allowing it to be tracked across any distance. Originally meant to allow its rightful owners the ability to track it if stolen, this feature makes it dangerous to remove the seal from its _warding box_, for as long as the _warding box_ is open, the oni of the Five Storms can track it.
+
+One final ward exists on the _Amatatsu Seal_, confounding attempts to whisk it quickly away from its homeland but also making returning a stolen seal home an arduous task. The _Amatatsu Seal_ can never be transported by teleportation magic or dimensional travel. It cannot be taken from the Material Plane save via special portals blessed by the gods, and characters who carry the seal cannot cast or otherwise use teleportation effects.
+
+To destroy the _Amatatsu Seal_, rightful scions of each of the five royal families of Minkai must, of their own free will, cast their families’ seals together into the Well of Demons in the Imperial Shrine in Kasai Harbor.
+
+== Warding Box (Minor Artifact)
+
+*Aura* Strong abjuration; *CL* 20th +
+*Slot* none; *Weight* 5 lbs.
+
+A _warding box_ is a powerful magical container built to obscure and confound any attempt to locate objects kept inside. The box can hold one object no larger than 8 inches × 8 inches × 3 inches (or up to 25 pounds) in each of its three compartments at any one time. The box’s lid and additional compartments are sealed, but the box can be opened or closed as a full-round action. While the lid is closed, the _warding box_ and all objects inside it are protected from all divination spells. In this state, no divination spell save for those employed by the gods can detect the _warding box_ or its contents.
+
+A _warding box_ can be destroyed by placing a _portable hole_ inside it, closing the lid, and then placing the box inside a second _portable hole_. This second _portable hole_ must be closed, and then a _wish_ must be used to switch the two _portable holes_. Doing so destroys both _portable holes_ and the _warding box_ along with them.
+
+== Daimyo Taosu
+
+Name roughly translates to Demon Slayer.
+
+Tiny construct (medium +1 fire-forged steel katana) +
+*Senses* Detect Oni 60 ft.
+
+*HP* 25 +
+Hardness 12 +
+Immune Construct Traits; Unbreakable
+
+*Melee* +1 fire-forged steel katana +1 (1d8+1/18-20 plus 1d6 Fire vs Oni plus deadly)
+
+*Int* 11, *Wis* 7, *Cha* 7 +
+*Feats* Alertness +
+*Languages* Common, Telepathy Touch, Minkian, Giant
+
+Black blade arcane pool 1

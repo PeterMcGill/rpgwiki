@@ -1,0 +1,16 @@
+= Story Journal
+
+link:../../index.html[Home] » link:../index.html[Jade Regent 2020]
+
+== Background
+
+*link:background.html[Background]
+
+Further information can be found in the free link:../JadeRegentPlayersGuide.pdf[Jade Regent Player’s Guide].
+
+== The Brinewall Legacy
+
+* link:brinestump.html[Fires Over Brinestump]
+* link:legacy.html[The Legacy’s Lure]
+* link:brinewall.html[Ruins of Brinewall]
+* link:oni.html[The Oni]
