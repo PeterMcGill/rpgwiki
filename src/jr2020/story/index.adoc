@@ -4,8 +4,8 @@ link:../../index.html[Home] » link:../index.html[Jade Regent 2020]
 
 == Background
 
-*link:background.html[Background]
-*link:npcs.html[Primary NPCs]
+* link:background.html[Background]
+* link:npcs.html[Primary NPCs]
 
 Further information can be found in the free link:../JadeRegentPlayersGuide.pdf[Jade Regent Player’s Guide].
 

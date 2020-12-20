@@ -12,16 +12,16 @@ Although she’s technically the head of one of Sandpoint’s noble families, Am
 
 Female human aristocrat 1/bard 3/rogue (rake) 1 +
 CG Medium humanoid (human) +
-*TACTICS*
-Before Combat:: Ameiko casts unseen servant every morning.
-During Combat:: When able to strike first in a combat, Ameiko uses bravado’s blade to intimidate foes instead of dealing sneak attack damage. Ameiko begins combat by activating her bardic performance. She always uses Arcane Strike in battle (these bonuses are included in her stats above).
-Morale:: Ameiko is loyal to her friends, and never abandons an ally in combat. Alone, her bravery isn’t as great. When she is faced with a dangerous foe and has no allies in peril, she prefers to flee if reduced below 15 hit points. +
-Feats:: Arcane Strike, Dodge, Iron Will, Weapon Finesse +
-Skills:: Acrobatics +10, Bluff +12, Diplomacy +12, Intimidate +12, Knowledge (arcana) +6, Knowledge (local) +8, Knowledge (nobility) +6, Knowledge (religion) +6, Perception +7, Perform (sing) +12, Perform (string) +12 (+14 with mwk samisen), Profession (tavern keeper) +4, Spellcraft +9, Stealth +10
-Languages:: Common, Tien, Varisian
-Combat Gear:: potion of remove disease, wand of cure moderate wounds (25 charges), wand of identify (40 charges); *Other Gear* +1 leather armor, +1 mithral rapier, daggers (3), ring of protection +1, belt pouch, gold signet ring worth 100 gp, masterwork samisen, silver holy symbol of Shelyn, spell component pouch
+*TACTICS* +
+*Before Combat* Ameiko casts unseen servant every morning. +
+*During Combat* When able to strike first in a combat, Ameiko uses bravado’s blade to intimidate foes instead of dealing sneak attack damage. Ameiko begins combat by activating her bardic performance. She always uses Arcane Strike in battle (these bonuses are included in her stats above). +
+*Morale* Ameiko is loyal to her friends, and never abandons an ally in combat. Alone, her bravery isn’t as great. When she is faced with a dangerous foe and has no allies in peril, she prefers to flee if reduced below 15 hit points. +
+*Feats* Arcane Strike, Dodge, Iron Will, Weapon Finesse +
+*Skills* Acrobatics +10, Bluff +12, Diplomacy +12, Intimidate +12, Knowledge (arcana) +6, Knowledge (local) +8, Knowledge (nobility) +6, Knowledge (religion) +6, Perception +7, Perform (sing) +12, Perform (string) +12 (+14 with mwk samisen), Profession (tavern keeper) +4, Spellcraft +9, Stealth +10 +
+*Languages* Common, Tien, Varisian +
+*Combat Gear* potion of remove disease, wand of cure moderate wounds (25 charges), wand of identify (40 charges); *Other Gear* +1 leather armor, +1 mithral rapier, daggers (3), ring of protection +1, belt pouch, gold signet ring worth 100 gp, masterwork samisen, silver holy symbol of Shelyn, spell component pouch
 
-Ameiko is a beautiful but somewhat irreverent woman of Tian descent who runs Sandpoint’s Rusty Dragon tavern and happens to be a member of one of Sandpoint’s founding families. Her parents and older siblings have met unfortunate ends over the past several years, leaving the young woman as the sole remaining Kaijitsu in town. Ameiko may be among the town’s nobility, but she’s never really cared for the aristocracy—she’s always had an urge to explore, and loves hearing stories of adventures and daring deeds. While she has a lot of friends and admirers in town, Ameiko has never accepted anyone as anything more than a friend, diplomatically avoiding personal questions and proposals of romance, much to the frustration of several eager suitors in Sandpoint. She’s a talented singer and samisen player, and if she wanted, Ameiko could probably lead a comfortable life in Sandpoint, but she’s growing increasingly bored and impatient with having a “safe life” in a “safe town.” If the chance to go on a grand adventure presents itself, she’d sell the Rusty Dragon in a heartbeat to seek her fortune.
+Ameiko is a beautiful but somewhat irreverent woman of Tian descent who runs Sandpoint’s Rusty Dragon tavern and happens to be a member of one of Sandpoint’s founding families. Her parents and older siblings have met unfortunate ends over the past several years, leaving the young woman as the sole remaining Kaijitsu in town. Ameiko may be among the town’s nobility, but she’s never really cared for the aristocracy—she’s always had an urge to explore, and loves hearing stories of adventures and daring deeds. While she has a lot of friends and admirers in town, Ameiko has never accepted anyone as anything more than a friend, diplomatically avoiding personal questions and proposals of romance, much to the frustration of several eager suitors in Sandpoint. She’s a talented singer and samisen player, and if she wanted, Ameiko could probably lead a comfortable life in Sandpoint, but she’s growing increasingly bored and impatient with having a "`safe life`" in a "`safe town.`" If the chance to go on a grand adventure presents itself, she’d sell the Rusty Dragon in a heartbeat to seek her fortune.
 
 Ameiko was born in 4689 AR to Lonjiku and Atsuii Kaijitsu. Although she’s not Atsuii’s or Lonjiku’s first child, she was the first legitimate child from that marriage. Ameiko had a lonely childhood. Her father strictly controlled who she could keep as friends, and filled her days with lessons in music, diplomacy, magic, and academic subjects. He kept a close eye on her, but Ameiko still managed to sneak into town to play with friends, explore old buildings, and visit her half-elven half-brother Tsuto at Sandpoint’s Turandarok Academy every chance she could.
 
@@ -37,13 +37,13 @@ While most people might think Koya’s lived a full life, she aches to make one 
 
 Female old human cleric of Desna 4 +
 CG Medium humanoid (human) +
-*TACTICS*
-During Combat:: Koya avoids combat if possible, preferring instead to cast sanctuary and then move among the battlefield casting healing magic on her allies. If faced with a situation where she can’t avoid healing enemies with her channel energy ability, Koya always chooses to use the ability anyway if an ally is wounded and she has no other options. If confronted on her own, she uses sanctuary to aid in her escape after casting longstrider to increase her speed.
-Morale:: Koya flees from any combat where she has no allies, but if even one ally remains alive, she remains to try to keep him alive as long as she can.
-Feats:: Brew Potion, Extra Channel, Fortune Teller*
-Skills:: Heal +11, Knowledge (religion) +8, Profession (fortuneteller) +11, Sense Motive +11, Spellcraft +8
-Languages:: Common, Varisian
-Combat Gear:: scrolls of cure moderate wounds (5), scroll of remove curse, scroll of remove disease, wand of cure light wounds (28 charges); *Other Gear* +1 leather armor, masterwork starknives (2), ring of protection +1, amethyst ring worth 100 gp, harrow deck, silver holy symbol of Desna, silver necklace worth 30 gp
+*TACTICS* +
+*During Combat* Koya avoids combat if possible, preferring instead to cast sanctuary and then move among the battlefield casting healing magic on her allies. If faced with a situation where she can’t avoid healing enemies with her channel energy ability, Koya always chooses to use the ability anyway if an ally is wounded and she has no other options. If confronted on her own, she uses sanctuary to aid in her escape after casting longstrider to increase her speed. +
+*Morale* Koya flees from any combat where she has no allies, but if even one ally remains alive, she remains to try to keep him alive as long as she can. +
+*Feats* Brew Potion, Extra Channel, Fortune Teller* +
+*Skills* Heal +11, Knowledge (religion) +8, Profession (fortuneteller) +11, Sense Motive +11, Spellcraft +8 +
+*Languages* Common, Varisian +
+*Combat Gear* scrolls of cure moderate wounds (5), scroll of remove curse, scroll of remove disease, wand of cure light wounds (28 charges); *Other Gear* +1 leather armor, masterwork starknives (2), ring of protection +1, amethyst ring worth 100 gp, harrow deck, silver holy symbol of Desna, silver necklace worth 30 gp
 
 Until she passed away from natural causes just a few months ago, Madame Niska Mvashti was the oldest person in Sandpoint. No one quite knows exactly how old the Varisian seer actually was when she died (she was already old when Sandpoint was founded over 40 years ago)—but the fact that her only daughter Koya is herself an old woman is a telling fact. Koya has spent a fair amount of her life traveling Varisia with a number of caravans, serving as a healer when she was younger and more recently as a fortune-teller. For the past several years, she’s in the company of her adopted son Sandru Vhiski as they travel on a regular caravan route between Riddleport, Magnimar, and Korvosa two or three times a year. Their caravan spends most of its time relatively close to Sandpoint, though, and that has suited Koya fine, since it gave her more time to care for her aged mother.
 
@@ -63,13 +63,13 @@ Sandru Vhiski never took the easy path in life—mostly because life’s easiest
 
 Male human rogue (swashbuckler) 4 +
 NG Medium humanoid (human) +
-*TACTICS*
-During Combat:: Sandru stays mobile in combat, using Acrobatics to avoid attacks of opportunity as he flanks foes and to prevent enemies from taking full-attack actions on him. He uses Power Attack in all fights, but does so with a relatively unique style that makes him seem more graceful than brutal in nature.
-Morale:: Sandru is stubbornly brave and has a hard time envisioning his own demise. As a result of this attitude, he fights to the death.
-Feats:: Improved Initiative, Iron Will, Power Attack, Toughness, Weapon Focus (scimitar)
-Skills:: Acrobatics +9, Appraise +7, Bluff +8, Craft (carpentry) +7, Diplomacy +8, Disable Device +8, Handle Animal +5, Knowledge (history) +4, Perception +7, Profession (merchant) +7
-Languages:: Common, Varisian
-Combat Gear:: potions of cure light wounds (3), potion of cure moderate wounds; *Other Gear* +1 chain shirt, +1 buckler, +1 scimitar, mwk shortbow with 20 arrows, belt pouch, bottle of fine brandy worth 50 gp (4), everburning torch, masterwork thieves’ tools, trail rations (4 days), wineskin
+*TACTICS* +
+*During Combat* Sandru stays mobile in combat, using Acrobatics to avoid attacks of opportunity as he flanks foes and to prevent enemies from taking full-attack actions on him. He uses Power Attack in all fights, but does so with a relatively unique style that makes him seem more graceful than brutal in nature. +
+*Morale* Sandru is stubbornly brave and has a hard time envisioning his own demise. As a result of this attitude, he fights to the death. +
+*Feats* Improved Initiative, Iron Will, Power Attack, Toughness, Weapon Focus (scimitar) +
+*Skills* Acrobatics +9, Appraise +7, Bluff +8, Craft (carpentry) +7, Diplomacy +8, Disable Device +8, Handle Animal +5, Knowledge (history) +4, Perception +7, Profession (merchant) +7 +
+*Languages* Common, Varisian +
+*Combat Gear* potions of cure light wounds (3), potion of cure moderate wounds; *Other Gear* +1 chain shirt, +1 buckler, +1 scimitar, mwk shortbow with 20 arrows, belt pouch, bottle of fine brandy worth 50 gp (4), everburning torch, masterwork thieves’ tools, trail rations (4 days), wineskin
 
 Only a few years from middle age, Sandru Vhiski is a charming man, handsome and irreverent in precisely the ways that could have made him a highly successful Sczarni con artist, even before one takes into account in the fact that his older brother, Jubrayl, is Sandpoint’s local Sczarni leader. Sandru doesn’t live in Sandpoint, although he considers himself one of the town’s citizens nevertheless. He’s only in town a few days out of every month, for his caravan is one of the region’s busier examples. Traveling with his adopted mother Koya Mvashti and a pair of Varisian brothers named Bevelek and Vankor Dalmuvian, Sandru makes the trip from Riddleport to Magnimar to Korvosa several times a year. While he makes enough money on these journeys from trade, money isn’t Sandru’s primary motivation—he loves the road, and he loves the tradition. It doesn’t take much to get Sandru talking about Varisian history, dance traditions, scarves, fortune-telling, horses and wagons, landmarks and legends. In the off-seasons, when weather makes travel too dangerous or too uncomfortable, Sandru prefers to stay in Magnimar, where he helps other Varisians with his carpentry skills and flirts with the political scene in that town. He’s not yet had the conviction to fully become a representative of his people in Magnimar, though, since he knows the call of the road will pull him from any local responsibilities as soon as the rains clear each spring.
 
@@ -87,15 +87,16 @@ Sandru is the owner and primary driver of the caravan destined to take the PCs o
 
 Shalelu is older than the town of Sandpoint, yet she’s come to think of it as her hometown—a town that has finally grown up enough to survive on its own without her watching over it from the wild.
 
-Female elf fighter 2/ranger 4 +
-CG Medium humanoid (elf) +
+[%hardbreaks]
+Female elf fighter 2/ranger 4
+CG Medium humanoid (elf)
 *TACTICS*
-During Combat:: Shalelu prefers to fight with her bow, resorting to melee only when truly desperate or when an ally seems in dire need of healing from her wand.
-Morale:: Shalelu is loyal to her friends, and as long as even one of them remains in danger she won’t abandon them. That said, if she feels she can escape, get help, and return in time to save anyone captured by enemies before it’s too late, she might try to do so.
-Feats:: Dodge, Endurance, Point-Blank Shot, Precise Shot, Rapid Shot, Skill Focus (Acrobatics), Weapon Focus (composite longbow)
-Skills:: Acrobatics +12, Knowledge (nature) +8, Perception +12, Stealth +15, Survival +10, Swim +10
-Languages:: Common, Elven, Goblin
-Combat Gear:: sleep arrows (10), potion of delay poison, potions of lesser restoration (2), wand of cure light wounds (25 charges), antitoxin (2); *Other Gear* +1 studded leather, +1 composite longbow with 20 arrows, masterwork short sword, amulet of natural armor +1, campfire bead*, cloak of resistance +1, backpack, bedroll, climber’s kit, flint and steel, manacles, silk rope (50 ft.), sunrods (3), trail rations (4 days), waterskin, winter blanket, wooden holy symbol of Desna
+*During Combat* Shalelu prefers to fight with her bow, resorting to melee only when truly desperate or when an ally seems in dire need of healing from her wand.
+*Morale* Shalelu is loyal to her friends, and as long as even one of them remains in danger she won’t abandon them. That said, if she feels she can escape, get help, and return in time to save anyone captured by enemies before it’s too late, she might try to do so.
+*Feats* Dodge, Endurance, Point-Blank Shot, Precise Shot, Rapid Shot, Skill Focus (Acrobatics), Weapon Focus (composite longbow)
+*Skills* Acrobatics +12, Knowledge (nature) +8, Perception +12, Stealth +15, Survival +10, Swim +10
+*Languages* Common, Elven, Goblin
+*Combat Gear* sleep arrows (10), potion of delay poison, potions of lesser restoration (2), wand of cure light wounds (25 charges), antitoxin (2); *Other Gear* +1 studded leather, +1 composite longbow with 20 arrows, masterwork short sword, amulet of natural armor +1, campfire bead*, cloak of resistance +1, backpack, bedroll, climber’s kit, flint and steel, manacles, silk rope (50 ft.), sunrods (3), trail rations (4 days), waterskin, winter blanket, wooden holy symbol of Desna
 
 Although Shalelu Andosana is something of a mystery in Sandpoint, she’s certainly one of the town’s most admired defenders. Like Sandru Vhiski, she doesn’t actually live in town, but she sometimes spends the night at the Rusty Dragon free of charge, thanks to her friendship with Ameiko Kaijitsu. Everyone in town knows that Shalelu is something of a loner and prefers to spend her time wandering and exploring the wilderness around Sandpoint. She periodically vanishes from the region for weeks or even months at a time to visit friends elsewhere in Varisia, but she never fails to return to Sandpoint. No one quite understands why she keeps coming back. When asked why, she merely says, "`Someone’s got to keep an eye on you all.`" Her reports of goblin activity have helped save folk from ambushes or warned the militia of possible attacks on the town or its farmlands numerous times. Yet in recent days, Sheriff Hemlock has taken a more active role in watching over the surrounding land. His militia is better trained than ever before, and Shalelu’s aid in keeping an eye on the hinterlands is growing less and less necessary. She actually seems relatively pleased with this, as if she’s proud that Sandpoint is finally starting to look after itself. She’s even hinted that she’s thinking of taking a long journey away from town sometime in the future, but when pressed for details, she just shrugs and changes the topic.
 

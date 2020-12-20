@@ -16,7 +16,7 @@ The natives of Kalsgard are used to seeing a wide variety of races and ethniciti
 
 *Government* overlord +
 *Population* 72,080 (62,383 humans, 7,212 dwarves, 973 gnomes, 724 halflings, 493 elves, 83 half-elves, 212 other)
-[horizontal]
+
 Notable NPCs::
 Linnorm King Sveinn Blood-Eagle +
 War Priest Chief Gudrun Fire-Hair +

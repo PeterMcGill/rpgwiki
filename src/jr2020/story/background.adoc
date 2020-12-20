@@ -12,7 +12,7 @@ Founded in 4666 ar along the Lost Coast, just a day’s ride north of Magnimar, 
 
 *Government* autocracy (mayor) +
 *Population* 1,240 (1,116 humans, 37 halflings, 25 elves, 24 dwarves, 13 gnomes, 13 half-elves, 12 half-orcs)
-[horizontal]
+
 Notable NPCs::
 Mayor Kendra Deverin +
 Sheriff Belor Hemlock +

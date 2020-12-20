@@ -60,72 +60,20 @@ Explorers in polar expeditions are well advised to bring specialized equipment i
 
 .Cold Weather Gear
 |===
-|Item |Cost |Weight |Source
-
-|Astrolabe
-|100 gp
-|6 lbs.
-|_APG_ 185
-
-|Cleats
-|5 gp
-|2 lbs.
-|_APG_ 187
-
-|Cold-weather outfit
-|8 gp
-|7 lbs.
-|_CR_ 161
-
-|Dog sled
-|20 gp
-|300 lbs.
-|_APG_ 187
-
-|Frostbite ointment
-|50 gp
-|1 lb.
-|
-
-|Furs
-|12 gp
-|5 lbs.
-|_APG_ 187
-
-|Map maker’s kit
-|10 gp
-|2 lbs.
-|_APG_ 187
-
-|Pack animal, musk ox
-|24 gp
-|—
-|
-
-|Shovel
-|2 gp
-|8 lbs.
-|_CR_ 157
-
-|Skates
-|10 gp
-|3 lbs.
-|
-
-|Skis and poles
-|15 gp
-|6 lbs.
-|
-
-|Snow goggles
-|12 gp
-|—
-|
-
-|Snowshoes
-|5 gp
-|4 lbs.
-|_APG_ 187
+|Item                 |Cost   |Weight   |Source
+|Astrolabe            |100 gp |6 lbs.   |_APG_ 185
+|Cleats               |5 gp   |2 lbs.   |_APG_ 187
+|Cold-weather outfit  |8 gp   |7 lbs.   |_CR_ 161
+|Dog sled             |20 gp  |300 lbs. |_APG_ 187
+|Frostbite ointment   |50 gp  |1 lb.    |
+|Furs                 |12 gp  |5 lbs.   |_APG_ 187
+|Map maker’s kit      |10 gp  |2 lbs.   |_APG_ 187
+|Pack animal, musk ox |24 gp  |—        |
+|Shovel               |2 gp   |8 lbs.   |_CR_ 157
+|Skates               |10 gp  |3 lbs.   |
+|Skis and poles       |15 gp  |6 lbs.   |
+|Snow goggles         |12 gp  |—        |
+|Snowshoes            |5 gp   |4 lbs.   |_APG_ 187
 |===
 
 Astrolabe:: Anyone who has been taught how to use this mechanical device can use it at night when the stars are showing to determine the date and time. This process takes 1 minute. An astrolabe grants a +2 circumstance bonus on Knowledge (geography) and Survival checks to navigate in the wilderness (and on Profession [sailor] checks to navigate at sea).
