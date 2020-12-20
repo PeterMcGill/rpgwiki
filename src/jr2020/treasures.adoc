@@ -17,15 +17,6 @@ One final ward exists on the _Amatatsu Seal_, confounding attempts to whisk it q
 
 To destroy the _Amatatsu Seal_, rightful scions of each of the five royal families of Minkai must, of their own free will, cast their families’ seals together into the Well of Demons in the Imperial Shrine in Kasai Harbor.
 
-== Warding Box (Minor Artifact)
-
-*Aura* Strong abjuration; *CL* 20th +
-*Slot* none; *Weight* 5 lbs.
-
-A _warding box_ is a powerful magical container built to obscure and confound any attempt to locate objects kept inside. The box can hold one object no larger than 8 inches × 8 inches × 3 inches (or up to 25 pounds) in each of its three compartments at any one time. The box’s lid and additional compartments are sealed, but the box can be opened or closed as a full-round action. While the lid is closed, the _warding box_ and all objects inside it are protected from all divination spells. In this state, no divination spell save for those employed by the gods can detect the _warding box_ or its contents.
-
-A _warding box_ can be destroyed by placing a _portable hole_ inside it, closing the lid, and then placing the box inside a second _portable hole_. This second _portable hole_ must be closed, and then a _wish_ must be used to switch the two _portable holes_. Doing so destroys both _portable holes_ and the _warding box_ along with them.
-
 == Daimyo Taosu
 
 Name roughly translates to Demon Slayer.
@@ -44,3 +35,168 @@ Immune Construct Traits; Unbreakable
 *Languages* Common, Telepathy Touch, Minkian, Giant
 
 Black blade arcane pool 1
+
+== Earthfire Shuriken
+
+*Aura* strong evocation [fire]; *CL* 12th +
+*Slot* none; *Price* 400 gp; *Weight* 1/2 lb. 
+
+This +1 flaming burst shuriken is etched with the image of an erupting volcano. Any creature damaged by an earthfire shuriken must make a DC 15 Reflex save or catch fire. Each round, burning creatures may attempt a Reflex save to quench the flames; failure results in another 1d6 points of fire damage.
+
+*Requirements* Craft Magic Arms and Armor; _burning gaze_ (see page 208 of the Advanced Player’s Guide); flame blade, flame strike, or fireball; *Cost* 198 gp
+
+== Fugitive’s Grenade
+
+*Aura* faint conjuration and transmutation; *CL* 3rd +
+*Slot* none; *Price* 750 gp; *Weight* —
+
+These small grenades are made from hollowed eggshells filled with assorted powders and reagents and inscribed with magical glyphs. When broken, a fugitive’s grenade creates a 10-foot-radius cloud that lasts for 2 rounds. This cloud is otherwise identical to a fog cloud. A single smoke tendril in the center of the cloud forms a solid-feeling rope, 20 feet long, that functions as a rope trick spell. When the smoke cloud dissipates, so does the smoke rope, though the rope trick’s extradimensional space remains for its full duration. Once the smoke rope disperses, any creatures inside the extradimensional space must jump or climb out by other means. A fugitive’s grenade may be thrown as a ranged touch attack with a range increment of 10 feet.
+
+*Requirements* Craft Wondrous Item, _fog cloud_, _rope trick_; Cost 375 gp
+
+== Polar Equipment
+
+Explorers in polar expeditions are well advised to bring specialized equipment in addition to their normal supplies.
+
+.Cold Weather Gear
+|===
+|Item |Cost |Weight |Source
+
+|Astrolabe
+|100 gp
+|6 lbs.
+|_APG_ 185
+
+|Cleats
+|5 gp
+|2 lbs.
+|_APG_ 187
+
+|Cold-weather outfit
+|8 gp
+|7 lbs.
+|_CR_ 161
+
+|Dog sled
+|20 gp
+|300 lbs.
+|_APG_ 187
+
+|Frostbite ointment
+|50 gp
+|1 lb.
+|
+
+|Furs
+|12 gp
+|5 lbs.
+|_APG_ 187
+
+|Map maker’s kit
+|10 gp
+|2 lbs.
+|_APG_ 187
+
+|Pack animal, musk ox
+|24 gp
+|—
+|
+
+|Shovel
+|2 gp
+|8 lbs.
+|_CR_ 157
+
+|Skates
+|10 gp
+|3 lbs.
+|
+
+|Skis and poles
+|15 gp
+|6 lbs.
+|
+
+|Snow goggles
+|12 gp
+|—
+|
+
+|Snowshoes
+|5 gp
+|4 lbs.
+|_APG_ 187
+|===
+
+Astrolabe:: Anyone who has been taught how to use this mechanical device can use it at night when the stars are showing to determine the date and time. This process takes 1 minute. An astrolabe grants a +2 circumstance bonus on Knowledge (geography) and Survival checks to navigate in the wilderness (and on Profession [sailor] checks to navigate at sea).
+
+Cleats:: These footgear spikes improve the wearer’s ability to move across icy surfaces. Each square of icy terrain costs only 1.5 squares of movement rather than 2 (or 3 squares rather than 4, for sloped icy terrain).
+
+Cold-Weather Outfit:: This heavy, quilted outfit grants a +5 circumstance bonus on Fortitude saves against exposure to cold weather.
+
+Dog Sled:: This conveyance is typically pulled by 1 or more riding dogs; the sled and any cargo are counted against the total carrying capacity of all dogs in the team to determine encumbrance. If the party is using caravan rules, a dog sled has the following statistics: *hp* 10; *Traveler Capacity* 1, *Cargo Capacity* 2; *Limit* none; *Consumption* 1.
+
+Frostbite Ointment:: One hour after being applied, this alchemical salve cures any creature suffering from frostbite, though any nonlethal damage from cold or exposure remains until the victim recovers. A creature cannot benefit from frostbite ointment more than once in 24 hours.
+
+Furs:: These simple furs are worn over armor and other clothing and grant a +2 circumstance bonus on Fortitude saves against exposure to cold weather. This bonus does not stack with any bonuses gained from the Survival skill.
+
+Map Maker’s Kit:: This kit gives anyone drawing a map as they travel a +2 circumstance bonus on Survival skill checks to avoid becoming lost.
+
+Pack Animal, Musk Ox:: These husky, shaggy beasts are sometimes domesticated as pack animals in the Crown of the World. Their statistics are identical to aurochs (Pathfinder RPG Bestiary 174), but they are immune to cold weather effects (though not severe cold and extreme cold effects). Domesticated musk oxen have the docile special quality (see horse; Bestiary 177), and treat their gore attack as a secondary natural weapon. In the polar rim mountains of Tian Xia, yaks are used as pack animals and have identical statistics.
+
+Shovel:: This simple tool is useful for digging shelters or through drifts and other snow barriers.
+
+Skates:: These honed metal blades are worn on boots to enable swift passage over ice. The wearer may move (but not climb) at her full speed on level icy surfaces. Her speed is halved when moving up an icy slope, but she may run or charge downhill on gentle or steep snowy slopes at quadruple speed. However, any skill check penalties for traversing rough ice while wearing skates are doubled, and the wearer takes a –4 penalty on combat maneuver checks to bull rush, drag, or trip, and to CMD against these maneuvers. Donning or removing skates takes 1 minute.
+
+Skis and Poles:: These polished wooden slats enable the wearer to glide across level snowy surfaces at his full speed. His speed is halved when moving up a snowy slope, but he may run or charge downhill on gentle or steep snowy slopes at quadruple speed. Any skill check penalties for traversing rough snowy terrain while wearing skis are doubled, and the wearer takes a –4 penalty on combat maneuver checks to bull rush, drag, or trip, and to CMD against these maneuvers. Characters cannot climb while wearing skis. Donning or removing skis takes 1 minute.
+
+Snow Goggles:: These goggles, carved from bone with a narrow slit opening and held in place with leather straps, work as smoked goggles (Advanced Player’s Guide 183). In addition, they provide immunity to polar mirages.
+
+Snowshoes:: This wide footgear made of gut or leather webbing laced across wooden frames improves the wearer’s ability to move across snowy surfaces. Snowshoes reduce the penalty for walking through heavy snow by 50%; for example, if moving through snow normally costs you 2 squares of movement per square traveled, snowshoes reduce this cost to 1.5 squares per square traveled.
+
+== Shinobi Shozoku
+
+*Slot* body; *Price* 50 gp; *Weight* 2 lbs.
+
+This is a close-fitting bodysuit of dark fabric, favored by ninja and assassins. It is of masterwork quality and grants a +2 circumstance bonus on Stealth checks while worn.
+
+== Shozoku of the Night Wind
+
+*Aura* moderate illusion; *CL* 4th +
+*Slot* body; *Price* 12,000 gp; *Weight* 2 lbs.
+
+This black bodysuit is of the type typically worn by ninjas and assassins, but it grants its wearer a +2 armor bonus and a +5 competence bonus on Stealth checks. In addition, if the wearer is in illumination of less than normal light, she can use invisibility, as the spell, once per day. If the wearer is a ninja with the vanishing trick ninja trick, then the wearer can use that ability twice per day without the expenditure of any ki points and regardless of the surrounding light level.
+
+*Requirements* Craft Wondrous Item, _invisibility_; Cost 6,000 gp
+
+== Suishen, Guardian of the Amatatsu (Minor Artifact)
+
+*Aura* strong evocation; *CL* 20th +
+*Slot* none; *Weight* 6 lbs.
+
+*Alignment* NG; *Ego* 25 +
+*Senses* 60 ft., darkvision, detect Amatatsu scions, read languages +
+*Int* 12; *Wis* 16, *Cha* 13 +
+*Communication* speech, telepathy +
+*Languages* Common, Tien +
+Powers:: Constant—_endure elements_ +
+3/day—_air walk, daylight, resist energy (cold), see invisibility_
+
+_Suishen_ is a _+2 defending flaming katana_. The ancestral blade of the Amatatsu family, _Suishen_ is believed to contain the soul of the first Amatatsu emperor of Minkai. It has been passed down through generations of the family, serving as advisor and spiritual guide. It was actually _Suishen_’s idea to be sold to Fynn Snaevald in order to save the family line.
+
+_Suishen_ can detect any scion of the Amatatsu family within 60 feet, whether a natural-born descendant or a person invested with the right to rule as an Amatatsu (such as a creature marked by the _Amatatsu Seal_). Although _Suishen_ is neutral good, any Amatatsu scion, regardless of alignment, can wield the sword without gaining a negative level. This boon is at _Suishen_’s discretion, however, and should such a scion ever betray the family or prove unworthy as an heir, the sword can reinstate this penalty and cause a personality conflict. Even though _Suishen_ can likely dominate anyone who tries to wield it, the sword usually acquiesces to the wishes of its wielder, provided she is a rightful Amatatsu scion—though after 50 years of holding its silence, _Suishen_ is a bit rough as a conversationalist, communicating in a very gruff, no-nonsense manner.
+
+_Suishen_ has a number of additional abilities as well, though it reveals these powers to its wielder only after she has shown herself honorable and worthy of bearing the family’s heirloom blade. Each time _Suishen_’s wielder is involved in a fight in which an oni of the Five Storms is killed, the wielder is made aware of one new power in the following order. If a new person wields _Suishen_, that person must learn the sword’s additional powers all over again.
+
+* No additional powers revealed
+
+_Suishen_ is destroyed if the blade is used to slay the last Amatatsu scion.
+
+== Warding Box (Minor Artifact)
+
+*Aura* Strong abjuration; *CL* 20th +
+*Slot* none; *Weight* 5 lbs.
+
+A _warding box_ is a powerful magical container built to obscure and confound any attempt to locate objects kept inside. The box can hold one object no larger than 8 inches × 8 inches × 3 inches (or up to 25 pounds) in each of its three compartments at any one time. The box’s lid and additional compartments are sealed, but the box can be opened or closed as a full-round action. While the lid is closed, the _warding box_ and all objects inside it are protected from all divination spells. In this state, no divination spell save for those employed by the gods can detect the _warding box_ or its contents.
+
+A _warding box_ can be destroyed by placing a _portable hole_ inside it, closing the lid, and then placing the box inside a second _portable hole_. This second _portable hole_ must be closed, and then a _wish_ must be used to switch the two _portable holes_. Doing so destroys both _portable holes_ and the _warding box_ along with them.

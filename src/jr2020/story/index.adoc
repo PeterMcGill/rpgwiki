@@ -5,6 +5,7 @@ link:../../index.html[Home] » link:../index.html[Jade Regent 2020]
 == Background
 
 *link:background.html[Background]
+*link:npcs.html[Primary NPCs]
 
 Further information can be found in the free link:../JadeRegentPlayersGuide.pdf[Jade Regent Player’s Guide].
 
@@ -14,3 +15,14 @@ Further information can be found in the free link:../JadeRegentPlayersGuide.pdf[
 * link:legacy.html[The Legacy’s Lure]
 * link:brinewall.html[Ruins of Brinewall]
 * link:oni.html[The Oni]
+
+== Night of Frozen Shadows
+
+* link:north.html[Into the North]
+* link:shadows.html[A Gathering of Shadows]
+* link:ravenscraeg.html[Assault on Ravenscraeg]
+* link:kalsgard.html[Kalsgard]
+
+== The Hungry Storm
+
+* link:worldsend.html[To the World’s End]
