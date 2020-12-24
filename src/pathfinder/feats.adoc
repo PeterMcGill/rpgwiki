@@ -1,8 +1,41 @@
-= Building Relationships
+= Feats
 
 link:../index.html[Home] » link:index.html[Pathfinder Role-Playing Game]
 
-=== Oni Hunter
+== The Elephant in the Room: Feat Taxes in Pathfinder
+
+Weapon Finesse:: Gone. The "`light weapons`" category has been renamed to "`finesse weapons.`" Characters can choose to use either their dexterity bonus or their strength bonus to hit with these weapons, no feat required. "`Finesse`" is also now a weapon attribute like "`brace`" or "`trip,`" allowing a weapon in another category to be finessed (like the rapier).
+
+Agile Maneuvers:: Gone. A character adds their dexterity to the CMB if they’re wielding a finesse weapon and their strength otherwise.
+
+Combat Expertise:: Gone. A character adds their dexterity to the CMB if they’re wielding a finesse weapon and their strength otherwise.
+
+Deadly Aim:: Gone. Now simple a combat option for any class with at least +1 BAB.
+
+Deft Maneuvers:: Replaces Improved Trip, Improved Disarm, Improved Dirty Trick, Improved Feint, Improved Reposition and Improved Steal. You do not provoke an attack of opportunity when performing a trip, disarm, dirty trick, feint, reposition, or steal combat maneuver. In addition, you receive a +2 bonus on checks with these combat maneuvers. Now a prerequisite for the relevant greater combat maneuver feats.
+
+Dodge:: Revised. You gain a +1 dodge bonus to your AC. This bonus increases to +4 against attacks of opportunity caused when you move out of or within a threatened tile. A condition that makes you lose your Dex bonus to AC also makes you lose the benefits of this feat.
+
+Mobility:: Gone. Merged with Dodge.
+
+Improved Two-Weapon Fighting:: Revised. Prerequisites now Dex 17, Two-Weapon Fighting, BAB +6. In addition to the standard single extra attack you get with an off-hand weapon, you get a second attack with it, albeit at a –5 penalty. Once your BAB reaches +11, you also gain a third attack with your off-hand weapon, albeit at a –10 penalty.
+
+Greater Two-Weapon Fighting:: Gone. Merged with Improved Two-Weapon Fighting
+
+Point-Blank Shot:: Gone. Precise Shot replaces it as a prerequisite for further archery feats.
+
+Power Attack:: Gone. Now simply a combat option for any class with at least +1 BAB.
+
+Powerful Maneuvers:: Replaces Improved Bull Rush, Improved Drag, Improved Overrun and Improved Sunder. You do not provoke an attack of opportunity when performing a bull rush, drag, overrun, or sunder combat maneuver. In addition, you receive a +2 bonus on checks with these combat maneuvers. Now a prerequisite for the relevant greater combat maneuver feats.
+
+Weapon Groups:: Combat feats like Weapon Focus now apply to weapon groups instead of a specific weapon by default. Except as noted here, the weapon groups are as described at: https://www.d20pfsrd.com/classes/core-classes/fighter/[Fighter] +
+*Samurai* dagger, katana, longbow, naginata, nodachi, wakizashi
+
+Weapon Proficiency:: Exotic Weapon Proficiency and Martial Weapon Proficiency are replaced by Weapon Proficiency (group), where group is one of the fighter weapon groups as described above.
+
+Note: These changes were introduced by: https://michaeliantorno.com/feat-taxes-in-pathfinder/[The Elephant in the Room: Feat Taxes in Pathfinder]
+
+== Oni Hunter
 
 *Prerequisites:* Knowledge (planes) 6 ranks.
 

@@ -20,8 +20,10 @@ d6:: 2 + d4 (reroll 1s)
 == House Rules
 
 * https://www.d20pfsrd.com/skills/background-skills/[Background Skills]
+* Bonus Feat: In addition to the feats gained by every character at odd character levels, each character also gains a feat at level 6.
+* https://michaeliantorno.com/feat-taxes-in-pathfinder/[The Elephant in the Room: Feat Taxes in Pathfinder]
+* Hero Points
+* Downtime & Retraining
+* link:../pathfinder/crafting.html[Item Crafting]
 * link:../pathfinder/relationships.html[Building Relationships]
 * Caravans
-* Downtime & Retraining
-* Hero Points
-* link:../pathfinder/crafting.html[Item Crafting]
