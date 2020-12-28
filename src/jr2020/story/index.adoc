@@ -26,3 +26,5 @@ Further information can be found in the free link:../JadeRegentPlayersGuide.pdf[
 == The Hungry Storm
 
 * link:worldsend.html[To the World’s End]
+* link:crown.html[The Crown of the World]
+
