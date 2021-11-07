@@ -52,7 +52,7 @@ This +1 flaming burst shuriken is etched with the image of an erupting volcano. 
 
 These small grenades are made from hollowed eggshells filled with assorted powders and reagents and inscribed with magical glyphs. When broken, a fugitive’s grenade creates a 10-foot-radius cloud that lasts for 2 rounds. This cloud is otherwise identical to a fog cloud. A single smoke tendril in the center of the cloud forms a solid-feeling rope, 20 feet long, that functions as a rope trick spell. When the smoke cloud dissipates, so does the smoke rope, though the rope trick’s extradimensional space remains for its full duration. Once the smoke rope disperses, any creatures inside the extradimensional space must jump or climb out by other means. A fugitive’s grenade may be thrown as a ranged touch attack with a range increment of 10 feet.
 
-*Requirements* Craft Wondrous Item, _fog cloud_, _rope trick_; Cost 375 gp
+*Requirements* Craft Wondrous Item, _fog cloud_, _rope trick_; *Cost* 375 gp
 
 == Polar Equipment
 
@@ -102,6 +102,19 @@ Snow Goggles:: These goggles, carved from bone with a narrow slit opening and he
 
 Snowshoes:: This wide footgear made of gut or leather webbing laced across wooden frames improves the wearer’s ability to move across snowy surfaces. Snowshoes reduce the penalty for walking through heavy snow by 50%; for example, if moving through snow normally costs you 2 squares of movement per square traveled, snowshoes reduce this cost to 1.5 squares per square traveled.
 
+== Sashimono of Comfort
+
+*Aura* faint abjuration; *CL* 1st +
+*Slot* none; *Price* 2,400 gp; *Weight* 3 lbs.
+
+A _sashimono of comfort_ is a purple Tian silk banner, typically 3 feet tall and 1 foot wide, decorated with three stylized orchid flowers. The banner is attached to a lance, polearm, staff, or frame, which can be worn on the back of a creature, carried by a mounted creature, flown from a wagon, or planted in the ground. A _sashimono of comfort_ keeps creatures comfortable in extreme weather conditions. It has no effect when not mounted properly or when lying on the ground.
+
+When worn or carried by a creature, the banner grants the effects of _endure elements_ to the bearer. When carried by a mounted creature, it grants both mount and rider this benefit. If it is flown from a wagon, the wagon’s driver, passengers, and draft team all gain this benefit. If planted firmly in the ground, the banner grants this benefit to all creatures within 30 feet. In addition, a caravan equipped with a _sashimono of comfort_ gains a +2 bonus on Security checks to resist the effects of severe weather.
+
+These effects function at temperatures between –50˚ and 140˚ F. If conditions are beyond these extremes, creatures using a _sashimono of comfort_ treat the ambient temperature as if it were 50˚ F warmer or cooler respectively, thereby possibly allowing additional castings of _endure elements_ to work normally.
+
+*Requirements* Craft Wondrous Item, _endure elements_; *Cost* 1,200 gp
+
 == Shinobi Shozoku
 
 *Slot* body; *Price* 50 gp; *Weight* 2 lbs.
@@ -115,7 +128,7 @@ This is a close-fitting bodysuit of dark fabric, favored by ninja and assassins.
 
 This black bodysuit is of the type typically worn by ninjas and assassins, but it grants its wearer a +2 armor bonus and a +5 competence bonus on Stealth checks. In addition, if the wearer is in illumination of less than normal light, she can use invisibility, as the spell, once per day. If the wearer is a ninja with the vanishing trick ninja trick, then the wearer can use that ability twice per day without the expenditure of any ki points and regardless of the surrounding light level.
 
-*Requirements* Craft Wondrous Item, _invisibility_; Cost 6,000 gp
+*Requirements* Craft Wondrous Item, _invisibility_; *Cost* 6,000 gp
 
 == Suishen, Guardian of the Amatatsu (Minor Artifact)
 
