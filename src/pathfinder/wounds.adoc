@@ -1,0 +1,96 @@
+= Wounds
+
+link:../index.html[Home] » link:index.html[Pathfinder Role-Playing Game]
+
+Just as armor class is an abstraction, so are hit points —after all, just because a dagger does 1d4 points of damage doesn’t mean a high-level fighter is somehow immune to having his throat slit. This alternate system attempts to better represent the differences between injuries and impeded performance.
+
+Hit points are an abstraction. When a fighter gains a level, his body does not suddenly become more resistant to damage. A sword’s strike does not suddenly do proportionately less damage. Rather, hit points suggest that the fighter has undergone more training, and while he may have improved his ability to deal with wounds to a small degree, the hit points gained at higher levels reflect less his capacity for physical punishment and more his skill at avoiding hits, his ability to dodge and twist and turn. Each loss of hit points, in this case, suggests that he is becoming progressively less nimble over the course of combat—in other words, that the decreasing hit points are a marker for his overall endurance and condition. It’s not quite as satisfying, however, to roll a critical hit and then tell a player that his opponent ducked out of the way, but that the sword’s slash made the enemy a little less lucky.
+
+This variant system for tracking wounds should help to remedy that.
+
+== Hit Points
+
+In this variant system, hit points are a measure of a character's ability to turn a direct hit into a graze or a glancing blow with no serious consequences. Hit points represent endurance, stamina, minor cuts, scrapes and bruises. The rules for hit points are unchanged except as noted below.
+
+=== 0 Hit Points
+
+At 0 hit points, a character can no longer avoid taking serious physical damage. Any additional damage they receive reduces their wound points.
+
+=== Nonlethal Damage
+
+When a creature takes nonlethal damage, it takes that damage in hit points only, even if the attack deals more damage than the creature has hit points. If the creature has no hit points (and no temporary hit points), each time that creature takes damage from an attack that deals nonlethal damage, it takes 1 wound point of damage.
+
+== Wound Points
+
+Wound points represent the amount of serious injuries a character can take before they die. A character has a number of wound points equal to their current Constitution score.
+
+=== Wound Points and Constitution Damage, Drain, and Penalties
+
+For each point of Constitution damage a creature takes, it loses 1 wound point. When a creature takes a penalty to its Constitution score or its Constitution is drained, it loses 1 wound point per point of drain or per penalty for the duration of the penalty or drain.
+
+=== Critical Hits
+
+When a creature is subject to a critical hit, the critical hit deals the damage normally, reducing hit points first, and then reducing wound points when hit points are gone. It also deals an amount of wound point damage equal to its critical multiplier (for example, 3 wound points for a weapon with a ×3 modifier), on top of any wound point damage the creature might take from the critical hit.
+
+=== Spells or Effects with Hit Point Triggers
+
+When using this system, if a spell or an ability has an effect that occurs when you reduce a creature to 0 or fewer hit points (such as the disintegrate spell), that effect is instead triggered when a creature is reduced to 0 or fewer wound points. In the case of the harm spell or a similar effect where a creature cannot be reduced below 1 hit point by the spell or effect, a creature’s wound points cannot be reduced below 1 wound point.
+
+== Injury and Death
+
+=== Disabled (0 Wound Points)
+
+When your current wound point total drops below 1, you are disabled.
+
+You gain the staggered condition and can only take a single move or standard action each turn (but not both, nor can you take full-round actions). You move at half speed. You can take move actions without further injuring yourself, but if you perform any standard action (or any other strenuous action) your remaining wound points are reduced by 1 and you must make a DC 10 Constitution check. If you fail the check, you fall unconscious and are dying.
+
+Healing that raises your wound points above 0 makes you fully functional again, just as if you’d never been reduced to 0 or fewer wound points.
+
+=== Dying
+
+A dying creature is unconscious and near death. A dying creature can take no actions. On the character’s next turn and on all subsequent turns, the character must make a DC 10 Constitution check to become stable. The character takes a penalty on this roll equal to his negative wound point total. A character that is stable does not need to make this check. A natural 20 on this check is an automatic success. If the character fails this check, he loses 1 wound point. If a dying creature has an amount of negative wound points equal to its Constitution score, it dies.
+
+== Regaining Wound Points
+
+=== Healing Spells and Effects
+
+When casting healing spells or using an ability with a healing effect (such as channeling holy energy on living creatures or the paladin’s lay on hands ability), the healing spell or effect acts normally, replenishing a number of hit points equal to the number of hit points the spell or effect would normally heal. It also heals a number of wound points equal to the number of dice it would normally roll for the healing spell or effect. In the case of effects like the heal spell, where a spell or effect heals 10 hit points per caster level, the creature heals its caster level in wound points.
+
+=== Restoration and Similar Effects
+
+When a creature regains Constitution points by way of the restoration spell or a similar effect, that creature regains 1 wound point for every Constitution point regained. Relieving a Constitution penalty or Constitution drain regains any wound points that were lost from that penalty or drain.
+
+=== Natural Healing
+
+Characters recover hit points at a rate of 1 hit point per hour per character level.
+
+With a full night's rest, a character recovers all its hit points and 1 wound point or twice that amount with complete bed rest for 24 hours. Any significant interruptions during the rest period prevent the character from healing that night.
+
+=== Assisted Healing
+
+A character who provides long-term care (see the Heal skill) doubles the rate at which a wounded character recovers lost hit points and wound points.
+
+== NPCs and Monsters
+
+For Small, Medium, and Large creatures, a monster's wound point total is equal to its current Constitution score. Creatures smaller or larger than that have their wound point total multiplied by a factor based on their size, as indicated on the table below.
+
+|===
+|Size       |Wound Point Multiplier
+|Fine       |x1/8
+|Diminutive |x1/4
+|Tiny       |x1/2
+|Small      |x1
+|Medium     |x1
+|Large      |x1
+|Huge       |x2
+|Gargantuan |x4
+|Colossal   |x8
+|===
+
+=== Creatures without Constitution Scores
+
+If a creature has no Constitution score, it has no hit points. Instead, it has wound points equal to the number of hit points it would have had. When its wound points drop to 0, it is destroyed.
+
+=== Regeneration
+
+Neither critical hits nor excess damage reduce its wound points, unless of the damage types which overcome the regeneration, typically fire and acid.

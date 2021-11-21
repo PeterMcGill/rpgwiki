@@ -27,5 +27,6 @@ Further information can be found in the free link:../JadeRegentPlayersGuide.pdf[
 
 * link:worldsend.html[To the World’s End]
 * link:highice.html[The High Ice]
+* link:darkerroad.html[A Darker Road]
 * link:crown.html[The Crown of the World]
 

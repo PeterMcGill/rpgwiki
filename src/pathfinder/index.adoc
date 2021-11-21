@@ -2,6 +2,7 @@
 
 link:../index.html[Home]
 
+* link:wounds.html[Wounds]
 * link:relationships.html[Building Relationships]
 * link:equipment.html[Equipment]
 * link:feats.html[Feats]
