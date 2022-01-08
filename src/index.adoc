@@ -6,4 +6,4 @@
 
 == Campaigns
 
-* link:jr2020/index.html[Jade Regent 2020]
+* link:jr2020/index.html[Jade Regent 2020-2021]

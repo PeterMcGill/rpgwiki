@@ -1,0 +1,12 @@
+= Ordu-Aganhei
+
+link:../../index.html[Home] » link:../index.html[Jade Regent 2020] » link:index.html[Story Journal]
+
+== Living Legendry
+
+In many of the nations and regions that collectively make up the land of Tian Xia, histories stretch back to points so ancient that the distinction between fact and myth blurs. From the legendary past rise monuments depicting fantastic heroes and strange beings, personages none now living can prove ever truly existed—yet who are believed in all the same. In some places, these figures are merely legends and fairy tales told to children. In others, evidence of wondrous deeds remains. And in still others, these ancient beings yet watch over their people, guarding those with the faith to see past the veils of time.
+
+== Deserving of Honor
+
+Not all the creatures spoken of in the tales of Minkai are as ferocious as the dreaded oni or as protective as the mysterious kami. Some exist merely to exist, taking delight in life and all the pleasures the world has to offer while simultaneously accepting it as it is. Among these are the raccoonlike tanuki, jolly and clever creatures equally as likely to wander the world in search of new experiences as they are to make someplace their home and enjoy its comforts. Yet many stories warn listeners to honor even such whimsical creatures, as their powers make them more than mortals, and those who rouse their ire suffer terrible fates.
+

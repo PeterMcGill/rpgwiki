@@ -30,3 +30,8 @@ Further information can be found in the free link:../JadeRegentPlayersGuide.pdf[
 * link:darkerroad.html[A Darker Road]
 * link:crown.html[The Crown of the World]
 
+== Forest of Spirits
+
+* link:ordu-aganhei.html[Ordu-Aganhei]
+* link:kami.html[Ecology of the Kami]
+* link:ninja.html[Way of the Ninja]
